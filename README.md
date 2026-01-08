@@ -20,7 +20,7 @@ wget https://raw.githubusercontent.com/ghousemohamed/learn-regex/main/install.sh
 Or clone and build from source:
 
 ```
-git clone https://github.com/ghousemohamed/learn-regex-in-the-terminal.git
+git clone https://github.com/ghousemohamed/learn-regex.git
 cd learn-regex-in-the-terminal
 go build
 ```
